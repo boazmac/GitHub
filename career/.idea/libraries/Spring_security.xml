@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Spring security" type="spring-security">
-    <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringSecurity/lib/spring-security-support.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Spring (2)" type="spring">
-    <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringMVC/lib/spring-mvc.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
